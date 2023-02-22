@@ -3,9 +3,7 @@
 <p>Este repositório faz parte do projeto final da formação .NET/Angular.</p>
 
 ## Front (WebLivraria)
-<p>Para rodar a aplicação no localhost:</p> 
-`ng serve --port <Port number>`
+Para rodar a aplicação no localhost: `ng serve --port <Port number>`
 
 ## Back (APILivraria)
-<p>Para rodar a aplicação, digite no terminal:</p>
-`dotnet run`
+Para rodar a aplicação, digite no terminal: `dotnet run`
