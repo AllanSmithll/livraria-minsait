@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Livraria.Api.Data
 {
-    public class LivroContext : DbContext
+    public class MainContext : DbContext
     {
-        public LivroContext(DbContextOptions<LivroContext> options) : base(options) { }
+        public MainContext(DbContextOptions<MainContext> options) : base(options) { }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) 
         {
             IConfiguration configuration = new ConfigurationBuilder()
@@ -17,5 +17,6 @@ namespace Livraria.Api.Data
         }
 
         public DbSet<Livro> Livros { get; set; }
+        public DbSet<Autor> Autores { get; set; }
     }
 }

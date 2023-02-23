@@ -3728,11 +3728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\allan\\source\\repos\\Livraria.Api\\Livraria.Api\\Livraria.Api.csproj",
+      "projectUniqueName": "C:\\Users\\allan\\OneDrive\\Área de Trabalho\\Projetos\\Livraria\\livraria-minsait\\Livraria.Api\\Livraria.Api.csproj",
       "projectName": "Livraria.Api",
-      "projectPath": "C:\\Users\\allan\\source\\repos\\Livraria.Api\\Livraria.Api\\Livraria.Api.csproj",
+      "projectPath": "C:\\Users\\allan\\OneDrive\\Área de Trabalho\\Projetos\\Livraria\\livraria-minsait\\Livraria.Api\\Livraria.Api.csproj",
       "packagesPath": "C:\\Users\\allan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\allan\\source\\repos\\Livraria.Api\\Livraria.Api\\obj\\",
+      "outputPath": "C:\\Users\\allan\\OneDrive\\Área de Trabalho\\Projetos\\Livraria\\livraria-minsait\\Livraria.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\allan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3743,6 +3743,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

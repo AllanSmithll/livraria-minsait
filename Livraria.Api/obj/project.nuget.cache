@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m4rGWwU7d8hRlNxs9ukQvASkJQ4bFjfT8gFcpOok663sA0AoX4BYc+z0RTBtg2QMxSwRhHPz6DubvmFX1KyqDA==",
+  "dgSpecHash": "VwUnk5dtZXAcv4f9Jvymb7cgD9jZDfI3vErEwbTxOgiRs6IL1+VCqTHYfhZhJeD0klW4ILCZimxC++rqhkSrtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\allan\\source\\repos\\Livraria.Api\\Livraria.Api\\Livraria.Api.csproj",
+  "projectFilePath": "C:\\Users\\allan\\OneDrive\\Área de Trabalho\\Projetos\\Livraria\\livraria-minsait\\Livraria.Api\\Livraria.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\allan\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\allan\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
